@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, young tech enthusiasts! 👋
 
-https://tinyurl.com/3ksn7ekm
+
 
 I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
@@ -26,7 +26,7 @@ I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Davi
 Cats are playful and independent pets. They have sharp senses and can be both active and calm.
 ## What to Expect
 
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
+Cats are fun buddies that bring both playful and quiet times to your home. They like doing things on their own but also love being close to you. Cats have sharp senses, so they're always aware of what's going on. Be ready for some grooming and moments of them being super active, adding lots of joy and fun to your everyday life with these adorable cats.
 
 So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
 
