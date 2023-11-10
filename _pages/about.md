@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: "About cats"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,16 +15,15 @@ Hello, young tech enthusiasts! 👋
 
 I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
-## About cats
+## About Cats
 
- **species:** mammals
+ **Species:** Mammals
 
- **diet:** carnivores 
+ **Diet:** Carnivores 
 
- **:** 
+ **Habitat:** Adaptable 
 
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
-
+Cats are playful and independent pets. They have sharp senses and can be both active and calm.
 ## What to Expect
 
 In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
