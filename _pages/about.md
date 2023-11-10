@@ -13,7 +13,7 @@ Hello, young cat enthusiasts! 👋
 
 
 
-I'm excited to share with you about cats!
+I'm excited to share with you about cats.
 
  **Species:** Mammals
 
